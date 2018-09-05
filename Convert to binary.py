@@ -1,5 +1,6 @@
 import tkinter as tk
-'''Challenge: Convert any number to binary without using bin()'''
+'''Challenge: Convert any number to binary without using bin().
+   version 1.2: improved code to run on Windows using tkinter.'''
 
 window = tk.Tk()
 window.title("Decimal 2 Binary calculator")
